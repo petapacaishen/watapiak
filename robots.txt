@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://petapacaishen.github.io/watapiak/sitemap.xml
